@@ -1,3 +1,2 @@
 # deep-learning
-keras+tensorflow for GC-block,
-how to use---'x=Lambda(gc_block)(x)'
+keras+gcnet(or simplified non local net)
